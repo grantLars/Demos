@@ -7,6 +7,8 @@ __pycache__/
 
 # virtualenv
 env/
+*.pyc
+.*swp
 
 # Distribution / packaging
 bin/
